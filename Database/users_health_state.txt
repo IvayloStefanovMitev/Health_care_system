@@ -1,0 +1,2 @@
+{"ani": {"illnesses": "low blood pressure", "blood_type": "A"}}
+{"ivo": {"illnesses": "bolen", "blood_type": "G"}}

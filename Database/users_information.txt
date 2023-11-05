@@ -1,0 +1,11 @@
+{"first_name": "ani", "last_name": "ANI", "UCN": "ANIGG", "password": "ANI"}
+{"first_name": "ani", "last_name": "ANI", "UCN": "ANIGGFAS", "password": "ANI"}
+{"first_name": "ani", "last_name": "ANI", "UCN": "ANIGGFASG", "password": "ANI"}
+{"first_name": "ani", "last_name": "ani", "UCN": "ani", "password": "ani"}
+{"first_name": "ivo", "last_name": "ivo", "UCN": "ivo", "password": "ivo"}
+{"first_name": "Ivaylo", "last_name": "Mitev", "UCN": "9403087068", "password": "ivo"}
+{"first_name": "Anna", "last_name": "Miteva", "UCN": "875432523", "password": "ani"}
+{"first_name": "aslan", "last_name": "maslan", "UCN": "georgi", "password": "12345"}
+{"first_name": "ivo", "last_name": "ivo", "UCN": "325654765", "password": "ivo"}
+{"first_name": "ivo", "last_name": "ivo", "UCN": "68767", "password": "ivo"}
+{"first_name": "ivo", "last_name": "ivo", "UCN": "435634", "password": "ivo"}
